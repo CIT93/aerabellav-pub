@@ -15,4 +15,4 @@ const myNumber = 42;
 let myString = 'Hello';
 // myString = 43; not a good idea
 //general code for variable declaration
-// your understanding
+// variables assign names to certain features of code and can be referenced throughout other places of the code
